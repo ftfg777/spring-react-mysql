@@ -1,2 +1,2 @@
-# spring-react-mysql
+# spring-react-mysql (back)
 spring boot, react(ts), mysql
